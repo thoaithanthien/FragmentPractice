@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:background="#ccc"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_Hoten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ho ten"
+        android:layout_marginTop="10dp"
+        android:textSize="38dp"
+        android:textColor="#0D370F"/>
+    <TextView
+        android:id="@+id/tv_Namsinh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nam sinh"
+        android:layout_marginTop="10dp"
+        android:textSize="30dp"
+        android:textColor="#0D370F"/>
+    <TextView
+        android:id="@+id/tv_Diachi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dia chi"
+        android:layout_marginTop="10dp"
+        android:textSize="30dp"
+        android:textColor="#0D370F"/>
+    <TextView
+        android:id="@+id/tv_Email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Email"
+        android:textSize="30dp"
+        android:textColor="#0D370F"/>
+
+
+
+</LinearLayout>
